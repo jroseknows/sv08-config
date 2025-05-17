@@ -1,5 +1,9 @@
-printer-[0-9]*.cfg
-*.png
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
 *.bkp
-moonraker-obico.cfg
-*.backup
+*.csv
+*.zip
